@@ -1,0 +1,19 @@
+input[type=number] {
+    width : 50px;
+    height : 50px;
+    border : 0;
+    text-align : center;
+}
+
+.blanc {
+
+    background: #FFFFFF;
+}
+
+.noir {
+    background : #000000;
+}
+
+table {
+    border : 4px ridge black;
+}
